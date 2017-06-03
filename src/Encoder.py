@@ -3,6 +3,7 @@
 import numpy as np
 import SDR
 
+#
 # Maybe 64 bits is too wide for some values
 # want some overlap, and no bits should always be on
 class Encoder(object):
